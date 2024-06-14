@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 /*
 
  The MIT License (MIT)
@@ -27,4 +27,4 @@
 
  */
 
-module.exports = require('./src/object-mapper');
+export * from "./src/object-mapper.js";
